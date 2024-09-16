@@ -26,6 +26,14 @@
   <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
 </p>
 
+<h1><p align="center">Technologies</p></h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white"/>
+</p>
+
+
 <h1><p align="center">Developer Tools</p></h1>
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
