@@ -12,3 +12,11 @@
   <img src="https://img.shields.io/badge/Python-3.9-%2314354C?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
+<h1>
+      <p align="center">Databases</p>
+</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
