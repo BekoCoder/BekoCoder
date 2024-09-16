@@ -1,5 +1,5 @@
 # BekoCode
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BekoCoder&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BekoCoder&show_icons=true&theme=dark&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BekoCoder&layout=compact)
 ![Visitor Count](https://komarev.com/ghpvc/?username=BekoCoder)
 <h1>
