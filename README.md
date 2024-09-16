@@ -1,6 +1,6 @@
 # BekoCode
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BekoCoder&show_icons=true&theme=dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BekoCoder&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BekoCoder&layout=compact&theme=dark)
 ![Visitor Count](https://komarev.com/ghpvc/?username=BekoCoder)
 <h1>
       <p align="center">Main Skills</p>
