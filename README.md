@@ -2,7 +2,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BekoCoder&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BekoCoder&layout=compact)
 ![Visitor Count](https://komarev.com/ghpvc/?username=BekoCoder)
-![Custom Badge](https://img.shields.io/badge/MY_BADGE-COLOR)
 <h1>
       <p align="center">Main Skills</p>
     </h1>
@@ -41,6 +40,8 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/DataGrip-000000.svg?style=for-the-badge&logo=datagrip&logoColor=white"/>
+   <img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+
 </p>
 
 
